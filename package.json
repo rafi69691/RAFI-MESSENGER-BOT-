@@ -1,40 +1,40 @@
 {
-  "name": "ISLAMICK BOT",
+  "name": "RAFI BOT",
   "version": "5.0.0",
-  "description": "made by 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_☢️",
+  "description": "made by RAFI",
   "main": "Cyber.js",
   "engines": {
     "node": ">=20.18.1",
     "npm": ">=10.0.0 <13.0.0"
   },
   "scripts": {
-      "start": "node Ullash.js",
+      "start": "node RAFI.js",
       "login": "node login",
       "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY.git"
+      "url": ""
   },
   "keywords": [
       "bot",
       "facebook",
-      "ullashproject",
+      "RAFIproject",
       "messenger",
       "javasvript",
-      "ullash",
-      "cyberullash",
-      "cyberRajib ",
-      "islamick chat bot",
-      "grandpa academy",
-      "cyberbot.top"
+      "RAFI",
+      ",
+      " ",
+      "",
+      "",
+      ""
   ],
-  "author": "Ullash ッ",
+  "author": "RAFI ッ",
   "license": "GPL-3.0",
   "bugs": {
-      "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues"
+      "url": ""
   },
-  "homepage": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues",
+  "homepage":"",
   "dependencies": {
       "@distube/ytdl-core": "^4.13.2",
       "@miraipr0ject/assets": "^1.0.9",
