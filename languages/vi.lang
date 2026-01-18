@@ -1,36 +1,36 @@
-# If you want to move down the line, please use \n. e.g: Priyanshu\nPriyansh.
+# If you want to move down the line, please use \n. e.g: RAFI\nRAFI.
 # After changed, you have to restart the bot to use.
 # Put the # character at the beginning of each sentence if you don't want the code to run those lines. 
 # Thanks to https://www.facebook.com/duong.than.net for translate to English!
 
-# Priyansh.js 
+# RAFI.js 
 
-priyansh.errorFormat=Malformed module!
-priyansh.nameExist=Module's name is similar to another module!
-priyansh.notFoundLanguage=Module %1 don't support your language
-priyansh.notFoundPackage=Can't find package %1 support for module %2, installing...
-priyansh.cantInstallPackage=Can't install package %1 for module %2, error: %3
-priyansh.loadedPackage=Installed whole package successfully for module %1
-priyansh.loadedConfig=Installed config successfully for module %1
-priyansh.cantLoadConfig=Can't install config of module %1, error: %2
-priyansh.cantOnload=Can't launch setup of module %1, error: %1
-priyansh.successLoadModule=Successfully installed module %1
-priyansh.failLoadModule=Can't install module %1, error: %2
-priyansh.finishLoadModule=Installed %1 module commands and %2 module events successfully 
-priyansh.foundPathAppstate=Found file appstate
-priyansh.notFoundPathAppstate=Can't find file appstate
-priyansh.checkListGban=Cheking global ban list...
-priyansh.banDevice=Your device have been banned from miraiproject, please contact to facebook https://fb.me/catalizcs to know more information or asking for unban key, if you already have unban key, please fill it below.
-priyansh.keyNotSameFormat=Wrong format, code must contain 6 number.
-priyansh.codeInputExpired=Your code is wrong or out of date.
-priyansh.unbanDeviceSuccess=Your device are unban now, please restart to use.
-priyansh.userBanned=You had been banned from miraiproject when %1 with reason: %2. Please contact to facebook https://fb.me/catalizCS to have more information!
-priyansh.finishCheckListGban=Checked global ban list
-priyansh.handleListenError=handleListene has occurred some unexpected errorr, error : %1
-priyansh.warningSourceCode=DETECTED THAT SOURCE CODE'S STRUCTURE HAD BEEN CHANGED , STOP NOW!
-priyansh.refreshListen=Refreshed handleListener...
-priyansh.successConnectDatabase=Connected to database successfully!
-priyansh.failConnectDatabase=Failed to connect to database, error: %1
+RAFI.errorFormat=Malformed module!
+RAFI.nameExist=Module's name is similar to another module!
+RAFI.notFoundLanguage=Module %1 don't support your language
+RAFI.notFoundPackage=Can't find package %1 support for module %2, installing...
+RAFI.cantInstallPackage=Can't install package %1 for module %2, error: %3
+RAFI.loadedPackage=Installed whole package successfully for module %1
+RAFI.loadedConfig=Installed config successfully for module %1
+RAFI.cantLoadConfig=Can't install config of module %1, error: %2
+RAFI.cantOnload=Can't launch setup of module %1, error: %1
+RAFI.successLoadModule=Successfully installed module %1
+RAFI.failLoadModule=Can't install module %1, error: %2
+RAFI.finishLoadModule=Installed %1 module commands and %2 module events successfully 
+RAFI.foundPathAppstate=Found file appstate
+RAFI.notFoundPathAppstate=Can't find file appstate
+RAFI.checkListGban=Cheking global ban list...
+RAFI.banDevice=Your device have been banned from miraiproject, please contact to facebook  to know more information or asking for unban key, if you already have unban key, please fill it below.
+RAFI.keyNotSameFormat=Wrong format, code must contain 6 number.
+RAFI.codeInputExpired=Your code is wrong or out of date.
+RAFI.unbanDeviceSuccess=Your device are unban now, please restart to use.
+RAFI.userBanned=You had been banned from miraiproject when %1 with reason: %2. Please contact to facebook  to have more information!
+RAFI.finishCheckListGban=Checked global ban list
+RAFI.handleListenError=handleListene has occurred some unexpected errorr, error : %1
+RAFI.warningSourceCode=DETECTED THAT SOURCE CODE'S STRUCTURE HAD BEEN CHANGED , STOP NOW!
+RAFI.refreshListen=Refreshed handleListener...
+RAFI.successConnectDatabase=Connected to database successfully!
+RAFI.failConnectDatabase=Failed to connect to database, error: %1
 
 # includes/listen.js
 
